@@ -3577,3 +3577,9 @@ coldPath   = $SPLUNK_DB/ALL_IDX/cold
 thawedPath = $SPLUNK_DB/ALL_IDX/thaweddb
 frozenTimePeriodInSecs = rentention
     
+[cba_rose]
+homePath   = $SPLUNK_DB/cba_rose/db
+coldPath   = $SPLUNK_DB/cba_rose/cold
+thawedPath = $SPLUNK_DB/cba_rose/thaweddb
+frozenTimePeriodInSecs = 879000
+    
